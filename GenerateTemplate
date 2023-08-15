@@ -1,2 +1,2 @@
 #!/bin/bash
-codes2pdf ./Algorithms -o Template.pdf
+codes2pdf ./Algorithms -o Reference.pdf
